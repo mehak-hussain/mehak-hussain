@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehak_hussain_" target="blank"><img src="https://img.shields.io/twitter/follow/mehak_hussain_?logo=twitter&style=for-the-badge" alt="mehak_hussain_" /></a> </p>
 
-- 🔭 I’m currently working as **Data Analyst @ Future Content Company**
+- 🔭 I’m currently working as **Software Engineer @ei1 and Aleph solutions** and **Ex-Data Analyst @ Future Content Company**
 
 - 🌱 I’m currently learning **React js**
 
